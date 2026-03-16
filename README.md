@@ -1,5 +1,13 @@
 # Google Cybersecurity Certificate
 
+## Professional Statement
+Im a fast learner with strong analytical thinking  
+and attention to detail, driven by a commitment to  
+ethics, professionalism, and the protection of people.  
+I am deeply interested in investigating cyber attacks,  
+understanding attacker motivations, and safeguarding  
+sensitive data to support the security goals of organizations.
+
 ## About
 
 This repository documents all portfolio activities    
