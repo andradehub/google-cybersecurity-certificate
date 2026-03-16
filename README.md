@@ -1,2 +1,31 @@
-# google-cybersecurity-certificate
-Portfolio activities and hands-on projects completed during the Google Cybersecurity Certificate program, covering assets, threats, vulnerabilities, and security best pratices.
+# Google Cybersecurity Certificate
+
+## About
+
+This repository documents all portfolio activities    
+completed during the Google Cybersecurity Certificate  
+program offered by Google via Coursera. 
+
+## Objectives
+
+- Apply cybersecurity concepts in practical activities
+- Build a professional portfolio for the job market
+- Demonstrate hands-on skills to recruiters
+
+## Program Topics
+
+- Foundations of Cybersecurity
+- Manage Security Risks
+- Networks and Network Security
+- Linux and SQL
+- Assets, Threats, and Vulnerabilities
+- Detection and Response
+- Automate tasks with Python
+- Prepare for Cybersecurity Jobs
+
+## Status
+In progress - Google Cybersecurity Certificate
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/felipe-de-andrade-bap/
