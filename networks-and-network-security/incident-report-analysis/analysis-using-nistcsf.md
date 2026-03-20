@@ -34,5 +34,5 @@ and restoring critical network services.
 
 ## Recover 
 To help the organization recover from the incident, various security processes  
-have been implemented to maintain the internal network online and secured, 
+have been implemented to maintain the internal network online and secured,  
 including the restoration of all critical network services.
