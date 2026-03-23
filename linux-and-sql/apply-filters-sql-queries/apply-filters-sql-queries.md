@@ -15,7 +15,7 @@ security updates across the organization.
 
 To investigate a potential security incident that  
 occurred after business hours, I queried the  
-log_in_attempts table to identify all failed login  
+log_in_attempts table to identify all failed login   
 attempts after 18:00.  
 ```sql
 SELECT *
