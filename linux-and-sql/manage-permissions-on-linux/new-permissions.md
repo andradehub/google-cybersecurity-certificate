@@ -5,7 +5,7 @@ As a security professional, part of my responsibilities
 include managing file system permissions to ensure  
 that only authorized users can access sensitive  
 research files. In this project, I examined existing  
-permissions on the /home/researcher2/projects  
+permissions on the /home/researcher2/projects   
 directory, identified unauthorized access, and used  
 Linux commands to modify permissions to match the  
 organization's authorization policies.  
